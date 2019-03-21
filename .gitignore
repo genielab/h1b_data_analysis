@@ -1,6 +1,7 @@
 .idea/
 *.iml
 .ipynb_checkpoints/
+out/
 
 
 # Byte-compiled / optimized / DLL files
