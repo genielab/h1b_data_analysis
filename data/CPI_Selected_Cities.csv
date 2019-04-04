@@ -1,0 +1,137 @@
+city,metro,year,cpi
+"San Diego,CA",San Diego,2011,301.03
+"San Diego,CA",San Diego,2012,308.267
+"San Diego,CA",San Diego,2013,314.839
+"San Diego,CA",San Diego,2014,321.037
+"San Diego,CA",San Diego,2015,333.606
+"San Diego,CA",San Diego,2016,346.938
+"San Diego,CA",San Diego,2017,365.707
+"San Diego,CA",San Diego,2018,385.694
+"Phoenix,AZ",Phoenix,2011,121.483
+"Phoenix,AZ",Phoenix,2012,124.197
+"Phoenix,AZ",Phoenix,2013,125.782
+"Phoenix,AZ",Phoenix,2014,127.823
+"Phoenix,AZ",Phoenix,2015,128.019
+"Phoenix,AZ",Phoenix,2016,130.107
+"Phoenix,AZ",Phoenix,2017,133.324
+"Phoenix,AZ",Phoenix,2018,138.875
+"San Francisco,CA",SF Bay Area,2011,233.113
+"San Francisco,CA",SF Bay Area,2012,239.434
+"San Francisco,CA",SF Bay Area,2013,244.766
+"San Francisco,CA",SF Bay Area,2014,251.713
+"San Francisco,CA",SF Bay Area,2015,258.144
+"San Francisco,CA",SF Bay Area,2016,266.042
+"San Francisco,CA",SF Bay Area,2017,274.738
+"San Francisco,CA",SF Bay Area,2018,285.297
+"Miami,FL",Miami,2011,230.565
+"Miami,FL",Miami,2012,235.073
+"Miami,FL",Miami,2013,237.997
+"Miami,FL",Miami,2014,243.012
+"Miami,FL",Miami,2015,245.416
+"Miami,FL",Miami,2016,249.67
+"Miami,FL",Miami,2017,256.337
+"Miami,FL",Miami,2018,264.998
+"Boston,MA",Boston,2011,243.629
+"Boston,MA",Boston,2012,247.564
+"Boston,MA",Boston,2013,251.007
+"Boston,MA",Boston,2014,255.125
+"Boston,MA",Boston,2015,256.743
+"Boston,MA",Boston,2016,260.282
+"Boston,MA",Boston,2017,266.921
+"Boston,MA",Boston,2018,275.531
+"Seattle,WA",Seattle,2011,232.435
+"Seattle,WA",Seattle,2012,238.531
+"Seattle,WA",Seattle,2013,241.436
+"Seattle,WA",Seattle,2014,245.853
+"Seattle,WA",Seattle,2015,249.149
+"Seattle,WA",Seattle,2016,254.718
+"Seattle,WA",Seattle,2017,262.357
+"Seattle,WA",Seattle,2018,270.789
+"Dallas,TX",Dallas,2011,207.683
+"Dallas,TX",Dallas,2012,212.041
+"Dallas,TX",Dallas,2013,215.888
+"Dallas,TX",Dallas,2014,218.451
+"Dallas,TX",Dallas,2015,217.359
+"Dallas,TX",Dallas,2016,220.408
+"Dallas,TX",Dallas,2017,226.025
+"Dallas,TX",Dallas,2018,232.676
+"Denver,CO",Denver,2011,220.288
+"Denver,CO",Denver,2012,224.568
+"Denver,CO",Denver,2013,230.791
+"Denver,CO",Denver,2014,237.2
+"Denver,CO",Denver,2015,239.99
+"Denver,CO",Denver,2016,246.643
+"Denver,CO",Denver,2017,254.995
+"Denver,CO",Denver,2018,261.958
+"Atlanta,GA",Atlanta,2011,208.851
+"Atlanta,GA",Atlanta,2012,212.681
+"Atlanta,GA",Atlanta,2013,216.061
+"Atlanta,GA",Atlanta,2014,220.886
+"Atlanta,GA",Atlanta,2015,221.615
+"Atlanta,GA",Atlanta,2016,225.262
+"Atlanta,GA",Atlanta,2017,232.603
+"Atlanta,GA",Atlanta,2018,238.364
+"Detroit,MI",Detroit-Ann Arbor,2011,211.465
+"Detroit,MI",Detroit-Ann Arbor,2012,215.955
+"Detroit,MI",Detroit-Ann Arbor,2013,219.414
+"Detroit,MI",Detroit-Ann Arbor,2014,221.791
+"Detroit,MI",Detroit-Ann Arbor,2015,218.868
+"Detroit,MI",Detroit-Ann Arbor,2016,222.063
+"Detroit,MI",Detroit-Ann Arbor,2017,226.579
+"Detroit,MI",Detroit-Ann Arbor,2018,232.145
+"Houston,TX",Houston,2011,200.246
+"Houston,TX",Houston,2012,204.13
+"Houston,TX",Houston,2013,207.269
+"Houston,TX",Houston,2014,213.268
+"Houston,TX",Houston,2015,213.065
+"Houston,TX",Houston,2016,216.242
+"Houston,TX",Houston,2017,220.642
+"Houston,TX",Houston,2018,225.943
+"Minneapolis,WI",Minneapolis-St.Paul,2011,219.339
+"Minneapolis,WI",Minneapolis-St.Paul,2012,224.459
+"Minneapolis,WI",Minneapolis-St.Paul,2013,228.811
+"Minneapolis,WI",Minneapolis-St.Paul,2014,232.013
+"Minneapolis,WI",Minneapolis-St.Paul,2015,230.567
+"Minneapolis,WI",Minneapolis-St.Paul,2016,234.145
+"Minneapolis,WI",Minneapolis-St.Paul,2017,239.239
+"Minneapolis,WI",Minneapolis-St.Paul,2018,244.969
+"Tampa,FL",Tampa,2011,198.938
+"Tampa,FL",Tampa,2012,203.637
+"Tampa,FL",Tampa,2013,206.786
+"Tampa,FL",Tampa,2014,210.815
+"Tampa,FL",Tampa,2015,211.557
+"Tampa,FL",Tampa,2016,214.037
+"Tampa,FL",Tampa,2017,219.461
+"Tampa,FL",Tampa,2018,224.263
+"New York,NY",New York-Newark,2011,247.718
+"New York,NY",New York-Newark,2012,252.588
+"New York,NY",New York-Newark,2013,256.833
+"New York,NY",New York-Newark,2014,260.23
+"New York,NY",New York-Newark,2015,260.558
+"New York,NY",New York-Newark,2016,263.365
+"New York,NY",New York-Newark,2017,268.52
+"New York,NY",New York-Newark,2018,273.64
+"Chicago,IL",Chicago,2011,218.684
+"Chicago,IL",Chicago,2012,222.005
+"Chicago,IL",Chicago,2013,224.545
+"Chicago,IL",Chicago,2014,228.468
+"Chicago,IL",Chicago,2015,227.792
+"Chicago,IL",Chicago,2016,229.302
+"Chicago,IL",Chicago,2017,233.611
+"Chicago,IL",Chicago,2018,237.706
+"St. Louis,MI",St. Louis,2011,209.776
+"St. Louis,MI",St. Louis,2012,214.768
+"St. Louis,MI",St. Louis,2013,217.965
+"St. Louis,MI",St. Louis,2014,220.217
+"St. Louis,MI",St. Louis,2015,219.321
+"St. Louis,MI",St. Louis,2016,221.074
+"St. Louis,MI",St. Louis,2017,224.747
+"St. Louis,MI",St. Louis,2018,228.426
+"Philadelphia,PA",Philadelphia,2011,233.547
+"Philadelphia,PA",Philadelphia,2012,237.923
+"Philadelphia,PA",Philadelphia,2013,240.78
+"Philadelphia,PA",Philadelphia,2014,243.987
+"Philadelphia,PA",Philadelphia,2015,243.778
+"Philadelphia,PA",Philadelphia,2016,245.204
+"Philadelphia,PA",Philadelphia,2017,248.325
+"Philadelphia,PA",Philadelphia,2018,251.635

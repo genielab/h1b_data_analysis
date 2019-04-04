@@ -1,0 +1,716 @@
+RegionName,State,Metro,CountyName,2018-12
+New York,NY,New York-Newark-Jersey City,Queens County,2295
+Los Angeles,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2350
+Chicago,IL,Chicago-Naperville-Elgin,Cook County,1635
+Houston,TX,Houston-The Woodlands-Sugar Land,Harris County,1265
+San Antonio,TX,San Antonio-New Braunfels,Bexar County,945
+Philadelphia,PA,Philadelphia-Camden-Wilmington,Philadelphia County,1550
+Phoenix,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,1025
+Las Vegas,NV,Las Vegas-Henderson-Paradise,Clark County,1005
+San Diego,CA,San Diego-Carlsbad,San Diego County,2030
+Dallas,TX,Dallas-Fort Worth-Arlington,Dallas County,1345
+San Jose,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2495
+Austin,TX,Austin-Round Rock,Travis County,1229
+Jacksonville,FL,Jacksonville,Duval County,1217.5
+San Francisco,CA,San Francisco-Oakland-Hayward,San Francisco County,3422
+Indianapolis,IN,Indianapolis-Carmel-Anderson,Marion County,874
+Charlotte,NC,Charlotte-Concord-Gastonia,Mecklenburg County,1331
+Fort Worth,TX,Dallas-Fort Worth-Arlington,Tarrant County,1352.5
+Columbus,OH,Columbus,Franklin County,850
+Tucson,AZ,Tucson,Pima County,630
+Louisville,KY,Louisville/Jefferson County,Jefferson County,850
+El Paso,TX,El Paso,El Paso County,725
+Orlando,FL,Orlando-Kissimmee-Sanford,Orange County,1320
+Denver,CO,Denver-Aurora-Lakewood,Denver County,1579
+Seattle,WA,Seattle-Tacoma-Bellevue,King County,2050
+Memphis,TN,Memphis,Shelby County,765
+Boston,MA,Boston-Cambridge-Newton,Suffolk County,2314.5
+Washington,DC,Washington-Arlington-Alexandria,District of Columbia,2292
+Nashville,TN,Nashville-Davidson--Murfreesboro--Franklin,Davidson County,1485
+Portland,OR,Portland-Vancouver-Hillsboro,Multnomah County,1568
+Sacramento,CA,Sacramento--Roseville--Arden-Arcade,Sacramento County,1300
+Baltimore,MD,Baltimore-Columbia-Towson,Baltimore City,1399
+Milwaukee,WI,Milwaukee-Waukesha-West Allis,Milwaukee County,825
+Fresno,CA,Fresno,Fresno County,765
+Omaha,NE,Omaha-Council Bluffs,Douglas County,793
+Albuquerque,NM,Albuquerque,Bernalillo County,764
+Oklahoma City,OK,Oklahoma City,Oklahoma County,750
+Raleigh,NC,Raleigh,Wake County,1095.5
+Mesa,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,906.5
+Atlanta,GA,Atlanta-Sandy Springs-Roswell,Fulton County,1620
+Kansas City,MO,Kansas City,Jackson County,972.5
+Long Beach,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1595
+Colorado Springs,CO,Colorado Springs,El Paso County,1187
+Virginia Beach,VA,Virginia Beach-Norfolk-Newport News,Virginia Beach City,1110
+Miami,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1995
+Oakland,CA,San Francisco-Oakland-Hayward,Alameda County,2997.5
+Tulsa,OK,Tulsa,Tulsa County,565
+Minneapolis,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1495
+Honolulu,HI,Urban Honolulu,Honolulu County,1700
+New Orleans,LA,New Orleans-Metairie,Orleans Parish,1250
+Arlington,TX,Dallas-Fort Worth-Arlington,Tarrant County,925
+Baton Rouge,LA,Baton Rouge,East Baton Rouge Parish,985
+Tampa,FL,Tampa-St. Petersburg-Clearwater,Hillsborough County,1477
+Aurora,CO,Denver-Aurora-Lakewood,Arapahoe County,1235
+Riverside,CA,Riverside-San Bernardino-Ontario,Riverside County,1475
+Bakersfield,CA,Bakersfield,Kern County,725
+Pittsburgh,PA,Pittsburgh,Allegheny County,1060
+Cincinnati,OH,Cincinnati,Hamilton County,795
+Anaheim,CA,Los Angeles-Long Beach-Anaheim,Orange County,2077
+Santa Ana,CA,Los Angeles-Long Beach-Anaheim,Orange County,1710
+Columbia,SC,Columbia,Richland County,886
+Islip,NY,New York-Newark-Jersey City,Suffolk County,1767.5
+Marietta,GA,Atlanta-Sandy Springs-Roswell,Cobb County,999.5
+Corpus Christi,TX,Corpus Christi,Nueces County,952
+Saint Louis,MO,St. Louis,Saint Louis City,825
+Lexington,KY,Lexington-Fayette,Fayette County,807
+Fort Wayne,IN,Fort Wayne,Allen County,525
+Greensboro,NC,Greensboro-High Point,Guilford County,745
+Vancouver,WA,Portland-Vancouver-Hillsboro,Clark County,1181.5
+Silver Spring,MD,Washington-Arlington-Alexandria,Montgomery County,1659
+Anchorage,AK,Anchorage,Anchorage Borough,900
+Saint Paul,MN,Minneapolis-St. Paul-Bloomington,Ramsey County,1180
+Naples,FL,Naples-Immokalee-Marco Island,Collier County,1508
+Durham,NC,Durham-Chapel Hill,Durham County,1285
+Stockton,CA,Stockton-Lodi,San Joaquin County,1092.5
+Plano,TX,Dallas-Fort Worth-Arlington,Collin County,1183
+Newark,NJ,New York-Newark-Jersey City,Essex County,1250
+Henderson,NV,Las Vegas-Henderson-Paradise,Clark County,1098.5
+Lincoln,NE,Lincoln,Lancaster County,827
+Modesto,CA,Modesto,Stanislaus County,1075
+Chandler,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,1104.5
+Lubbock,TX,Lubbock,Lubbock County,650
+Jersey City,NJ,New York-Newark-Jersey City,Hudson County,2350
+Buffalo,NY,Buffalo-Cheektowaga-Niagara Falls,Erie County,900
+Mobile,AL,Mobile,Mobile County,640
+Hialeah,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1200
+San Bernardino,CA,Riverside-San Bernardino-Ontario,San Bernardino County,875
+Chula Vista,CA,San Diego-Carlsbad,San Diego County,1689
+Saint Petersburg,FL,Tampa-St. Petersburg-Clearwater,Pinellas County,1145
+Pensacola,FL,Pensacola-Ferry Pass-Brent,Escambia County,830
+Lawrenceville,GA,Atlanta-Sandy Springs-Roswell,Gwinnett County,1073.5
+Winston-Salem,NC,Winston-Salem,Forsyth County,659.5
+Madison,WI,Madison,Dane County,1050
+Norfolk,VA,Virginia Beach-Norfolk-Newport News,Norfolk City,1189
+Glendale,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,910
+Scottsdale,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,1426
+Fayetteville,NC,Fayetteville,Cumberland County,648
+Boise,ID,Boise City,Ada County,995
+Irvine,CA,Los Angeles-Long Beach-Anaheim,Orange County,2085
+Laredo,TX,Laredo,Webb County,860
+Sarasota,FL,North Port-Sarasota-Bradenton,Sarasota County,1428
+Chesapeake,VA,Virginia Beach-Norfolk-Newport News,Chesapeake City,1140
+Fort Myers,FL,Cape Coral-Fort Myers,Lee County,962.5
+Garland,TX,Dallas-Fort Worth-Arlington,Dallas County,1159
+Gilbert,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,1123
+North Las Vegas,NV,Las Vegas-Henderson-Paradise,Clark County,995
+Fremont,CA,San Francisco-Oakland-Hayward,Alameda County,2275
+Santa Clarita,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1785
+Irving,TX,Dallas-Fort Worth-Arlington,Dallas County,1270.5
+Arlington,VA,Washington-Arlington-Alexandria,Arlington County,1995
+Springfield,MO,Springfield,Greene County,535
+Birmingham,AL,Birmingham-Hoover,Jefferson County,900
+Santa Rosa,CA,Santa Rosa,Sonoma County,1800
+Greenville,SC,Greenville-Anderson-Mauldin,Greenville County,1000
+Richmond,VA,Richmond,Richmond City,1099
+Des Moines,IA,Des Moines-West Des Moines,Polk County,940
+Boca Raton,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1714
+Bradenton,FL,North Port-Sarasota-Bradenton,Manatee County,1089.5
+Woodbridge,VA,Washington-Arlington-Alexandria,Prince William County,1416
+Rochester,NY,Rochester,Monroe County,775
+Montgomery,AL,Montgomery,Montgomery County,610
+Corona,CA,Riverside-San Bernardino-Ontario,Riverside County,1658
+Oceanside,CA,San Diego-Carlsbad,San Diego County,1650
+Tacoma,WA,Seattle-Tacoma-Bellevue,Pierce County,1245
+Gainesville,FL,Gainesville,Alachua County,942
+Yonkers,NY,New York-Newark-Jersey City,Westchester County,1750
+Shreveport,LA,Shreveport-Bossier City,Caddo Parish,575
+Moreno Valley,CA,Riverside-San Bernardino-Ontario,Riverside County,1215
+Akron,OH,Akron,Summit County,550
+Aurora,IL,Chicago-Naperville-Elgin,Kane County,1266
+Wilmington,NC,Wilmington,New Hanover County,900
+Huntington Beach,CA,Los Angeles-Long Beach-Anaheim,Orange County,2090
+Salt Lake City,UT,Salt Lake City,Salt Lake County,1215
+Salinas,CA,Salinas,Monterey County,1448
+Amarillo,TX,Amarillo,Potter County,550
+Little Rock,AR,Little Rock-North Little Rock-Conway,Pulaski County,710.5
+Fort Collins,CO,Fort Collins,Larimer County,1310
+Hayward,CA,San Francisco-Oakland-Hayward,Alameda County,1907
+Rockford,IL,Rockford,Winnebago County,535
+Evansville,IN,Evansville,Vanderburgh County,525
+Overland Park,KS,Kansas City,Johnson County,969
+Garden Grove,CA,Los Angeles-Long Beach-Anaheim,Orange County,1566.5
+Grand Prairie,TX,Dallas-Fort Worth-Arlington,Dallas County,1056
+Providence,RI,Providence-Warwick,Providence County,1500
+Fort Lauderdale,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1644.5
+Ontario,CA,Riverside-San Bernardino-Ontario,San Bernardino County,1638
+Columbus,GA,Columbus,Muscogee County,580
+Sioux Falls,SD,Sioux Falls,Minnehaha County,750
+Charleston,SC,Charleston-North Charleston,Charleston County,1400
+Tempe,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,1062
+Rancho Cucamonga,CA,Riverside-San Bernardino-Ontario,San Bernardino County,1667
+Killeen,TX,Killeen-Temple,Bell County,445
+Fredericksburg,VA,Washington-Arlington-Alexandria,Spotsylvania County,1240.5
+Newport News,VA,Virginia Beach-Norfolk-Newport News,Newport News City,910
+Roanoke,VA,Roanoke,Roanoke City,695
+El Cajon,CA,San Diego-Carlsbad,San Diego County,1339
+Elk Grove,CA,Sacramento--Roseville--Arden-Arcade,Sacramento County,1524
+Peoria,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,1115
+Naperville,IL,Chicago-Naperville-Elgin,DuPage County,1335.5
+Fairfax,VA,Washington-Arlington-Alexandria,Fairfax County,1689
+Boynton Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1474
+Topeka,KS,Topeka,Shawnee County,550
+McKinney,TX,Dallas-Fort Worth-Arlington,Collin County,1089
+Pembroke Pines,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1400
+Edmond,OK,Oklahoma City,Oklahoma County,736
+Salem,OR,Salem,Marion County,845
+Spring,TX,Houston-The Woodlands-Sugar Land,Harris County,1160
+Henrico,VA,Richmond,Henrico County,1145
+Dayton,OH,Dayton,Montgomery County,499
+Lakewood,CO,Denver-Aurora-Lakewood,Jefferson County,1440
+Alexandria,VA,Washington-Arlington-Alexandria,Alexandria City,1728
+Tyler,TX,Tyler,Smith County,875
+Pomona,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1473
+Cypress,TX,Houston-The Woodlands-Sugar Land,Harris County,1084
+Round Rock,TX,Austin-Round Rock,Williamson County,1063
+Ann Arbor,MI,Ann Arbor,Washtenaw County,1200
+Kansas City,KS,Kansas City,Wyandotte County,806
+Hollywood,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1400
+Sunnyvale,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2405
+Conroe,TX,Houston-The Woodlands-Sugar Land,Montgomery County,1086
+Lansing,MI,Lansing-East Lansing,Ingham County,605
+Cary,NC,Raleigh,Wake County,1110
+Paterson,NJ,New York-Newark-Jersey City,Passaic County,1200
+Columbia,MO,Columbia,Boone County,520
+Syracuse,NY,Syracuse,Onondaga County,812.5
+Frisco,TX,Dallas-Fort Worth-Arlington,Collin County,1350
+Renton,WA,Seattle-Tacoma-Bellevue,King County,1386.5
+Bridgeport,CT,Bridgeport-Stamford-Norwalk,Fairfield County,1050
+Newark,DE,Philadelphia-Camden-Wilmington,New Castle County,897
+Mesquite,TX,Dallas-Fort Worth-Arlington,Dallas County,861
+Pasadena,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2205
+Torrance,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1725
+Clearwater,FL,Tampa-St. Petersburg-Clearwater,Pinellas County,1080
+Fullerton,CA,Los Angeles-Long Beach-Anaheim,Orange County,1800
+Orange,CA,Los Angeles-Long Beach-Anaheim,Orange County,2091.5
+Hampton,VA,Virginia Beach-Norfolk-Newport News,Hampton City,899
+Bellevue,WA,Seattle-Tacoma-Bellevue,King County,2065
+Inglewood,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1500
+West Valley City,UT,Salt Lake City,Salt Lake County,920
+Miramar,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1512
+Thornton,CO,Denver-Aurora-Lakewood,Adams County,1249
+Abilene,TX,Abilene,Taylor County,573
+Billings,MT,Billings,Yellowstone County,675
+Concord,CA,San Francisco-Oakland-Hayward,Contra Costa County,1695
+Bloomington,IN,Bloomington,Monroe County,799
+Boulder,CO,Boulder,Boulder County,1600
+Beaverton,OR,Portland-Vancouver-Hillsboro,Washington County,1195.5
+Carrollton,TX,Dallas-Fort Worth-Arlington,Denton County,1009.5
+Coral Springs,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1236
+Thousand Oaks,CA,Oxnard-Thousand Oaks-Ventura,Ventura County,2059.5
+Roseville,CA,Sacramento--Roseville--Arden-Arcade,Placer County,1527.5
+New Haven,CT,New Haven-Milford,New Haven County,1200
+Simi Valley,CA,Oxnard-Thousand Oaks-Ventura,Ventura County,1790
+Waco,TX,Waco,McLennan County,732.5
+Stamford,CT,Bridgeport-Stamford-Norwalk,Fairfield County,2096
+Denton,TX,Dallas-Fort Worth-Arlington,Denton County,933
+Gainesville,GA,Gainesville,Hall County,1025
+Allentown,PA,Allentown-Bethlehem-Easton,Lehigh County,950
+Frederick,MD,Washington-Arlington-Alexandria,Frederick County,1167.5
+Hartford,CT,Hartford-West Hartford-East Hartford,Hartford County,880
+Murrieta,CA,Riverside-San Bernardino-Ontario,Riverside County,1429.5
+Temecula,CA,Riverside-San Bernardino-Ontario,Riverside County,1561
+Hemet,CA,Riverside-San Bernardino-Ontario,Riverside County,850
+Springfield,IL,Springfield,Sangamon County,575
+Vallejo,CA,Vallejo-Fairfield,Solano County,1550
+Santa Clara,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2587.5
+Amherst,NY,Buffalo-Cheektowaga-Niagara Falls,Erie County,1156.5
+Cedar Rapids,IA,Cedar Rapids,Linn County,525
+Falls Church,VA,Washington-Arlington-Alexandria,Fairfax County,1690
+Norman,OK,Oklahoma City,Cleveland County,597
+Berkeley,CA,San Francisco-Oakland-Hayward,Alameda County,2500
+Westminster,CO,Denver-Aurora-Lakewood,Adams County,1400
+Richmond,CA,San Francisco-Oakland-Hayward,Contra Costa County,1900
+Vista,CA,San Diego-Carlsbad,San Diego County,1652
+Arvada,CO,Denver-Aurora-Lakewood,Jefferson County,1495
+Charlottesville,VA,Charlottesville,Albemarle County,1096.5
+Independence,MO,Kansas City,Jackson County,675
+Macon,GA,Macon-Bibb County,Bibb County,741
+Tuscaloosa,AL,Tuscaloosa,Tuscaloosa County,700
+Concord,NC,Charlotte-Concord-Gastonia,Cabarrus County,1039
+Bellingham,WA,Bellingham,Whatcom County,1095
+Melbourne,FL,Palm Bay-Melbourne-Titusville,Brevard County,1035
+Costa Mesa,CA,Los Angeles-Long Beach-Anaheim,Orange County,2039
+Bend,OR,Bend-Redmond,Deschutes County,1392.5
+Manchester,NH,Manchester-Nashua,Hillsborough County,1240
+Downey,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1450
+Ventura,CA,Oxnard-Thousand Oaks-Ventura,Ventura County,1625
+North Charleston,SC,Charleston-North Charleston,Charleston County,1045
+Lewisville,TX,Dallas-Fort Worth-Arlington,Denton County,1018.5
+West Covina,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1809
+Bowling Green,KY,Bowling Green,Warren County,675
+Delray Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1500
+Lowell,MA,Boston-Cambridge-Newton,Middlesex County,1325
+Waterbury,CT,New Haven-Milford,New Haven County,750
+West Palm Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1650
+Carlsbad,CA,San Diego-Carlsbad,San Diego County,2120
+Laurel,MD,Washington-Arlington-Alexandria,Prince Georges County,1325
+Cambridge,MA,Boston-Cambridge-Newton,Middlesex County,2494.5
+Kent,WA,Seattle-Tacoma-Bellevue,King County,1279
+Fargo,ND,Fargo,Cass County,655
+Riverview,FL,Tampa-St. Petersburg-Clearwater,Hillsborough County,1115
+Greenville,NC,Greenville,Pitt County,495
+Manassas,VA,Washington-Arlington-Alexandria,Prince William County,1383.5
+Hillsboro,OR,Portland-Vancouver-Hillsboro,Washington County,1360
+Richardson,TX,Dallas-Fort Worth-Arlington,Dallas County,1425
+West Chester,PA,Philadelphia-Camden-Wilmington,Chester County,1319
+Peoria,IL,Peoria,Peoria County,675
+Centennial,CO,Denver-Aurora-Lakewood,Arapahoe County,1680
+Springfield,VA,Washington-Arlington-Alexandria,Fairfax County,1585
+Fairfield,CA,Vallejo-Fairfield,Solano County,1688
+Davenport,IA,Davenport-Moline-Rock Island,Scott County,625
+Everett,WA,Seattle-Tacoma-Bellevue,Snohomish County,1263
+Pompano Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1295
+San Leandro,CA,San Francisco-Oakland-Hayward,Alameda County,1795
+Burbank,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1899
+Vacaville,CA,Vallejo-Fairfield,Solano County,1754
+Albany,NY,Albany-Schenectady-Troy,Albany County,995
+Grand Junction,CO,Grand Junction,Mesa County,695
+Franklin,TN,Nashville-Davidson--Murfreesboro--Franklin,Williamson County,1310
+Longview,TX,Longview,Gregg County,618
+San Mateo,CA,San Francisco-Oakland-Hayward,San Mateo County,2744
+Edison,NJ,New York-Newark-Jersey City,Middlesex County,1450
+Daly City,CA,San Francisco-Oakland-Hayward,San Mateo County,2400
+The Woodlands,TX,Houston-The Woodlands-Sugar Land,Montgomery County,1094
+Davie,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1541.5
+Columbia,MD,Baltimore-Columbia-Towson,Howard County,1546
+Lawrence,KS,Lawrence,Douglas County,625
+Lynchburg,VA,Lynchburg,Lynchburg City,612.5
+League City,TX,Houston-The Woodlands-Sugar Land,Galveston County,1002
+Mission Viejo,CA,Los Angeles-Long Beach-Anaheim,Orange County,1825
+Erie,PA,Erie,Erie County,550
+Sandy,UT,Salt Lake City,Salt Lake County,1225
+Wilmington,DE,Philadelphia-Camden-Wilmington,New Castle County,996
+Federal Way,WA,Seattle-Tacoma-Bellevue,King County,1175
+Bryan,TX,College Station-Bryan,Brazos County,1050
+Champaign,IL,Champaign-Urbana,Champaign County,675
+Hawthorne,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1395
+Johnson City,TN,Johnson City,Washington County,595
+Woodstock,GA,Atlanta-Sandy Springs-Roswell,Cherokee County,1222
+Brockton,MA,Boston-Cambridge-Newton,Plymouth County,1087.5
+Highlands Ranch,CO,Denver-Aurora-Lakewood,Douglas County,1503
+Annapolis,MD,Baltimore-Columbia-Towson,Anne Arundel County,1615
+New Braunfels,TX,San Antonio-New Braunfels,Comal County,1045
+Terre Haute,IN,Terre Haute,Vigo County,500
+Ashburn,VA,Washington-Arlington-Alexandria,Loudoun County,1540
+Sterling,VA,Washington-Arlington-Alexandria,Loudoun County,1539
+Auburn,WA,Seattle-Tacoma-Bellevue,King County,1260
+Muncie,IN,Muncie,Delaware County,500
+Allen,TX,Dallas-Fort Worth-Arlington,Collin County,1080
+Kalamazoo,MI,Kalamazoo-Portage,Kalamazoo County,695
+Santa Monica,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,3000
+Plantation,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1429
+Reading,PA,Reading,Berks County,627.5
+Loveland,CO,Fort Collins,Larimer County,1271
+Cheyenne,WY,Cheyenne,Laramie County,650
+Fort Smith,AR,Fort Smith,Sebastian County,425
+Lawton,OK,Lawton,Comanche County,570
+Roswell,GA,Atlanta-Sandy Springs-Roswell,Fulton County,1183
+Orem,UT,Provo-Orem,Utah County,1107
+Miami Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1741
+Sunrise,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1575
+Lynn,MA,Boston-Cambridge-Newton,Essex County,1450
+Lees Summit,MO,Kansas City,Jackson County,989
+Newnan,GA,Atlanta-Sandy Springs-Roswell,Coweta County,980
+San Marcos,CA,San Diego-Carlsbad,San Diego County,1882
+Herndon,VA,Washington-Arlington-Alexandria,Fairfax County,1595
+Carmel,IN,Indianapolis-Carmel-Anderson,Hamilton County,983
+Bothell,WA,Seattle-Tacoma-Bellevue,Snohomish County,1540.5
+Newton,MA,Boston-Cambridge-Newton,Middlesex County,1850
+Santa Barbara,CA,Santa Maria-Santa Barbara,Santa Barbara County,1995
+Lafayette,IN,Lafayette-West Lafayette,Tippecanoe County,724
+Leesburg,VA,Washington-Arlington-Alexandria,Loudoun County,1517.5
+Duluth,GA,Atlanta-Sandy Springs-Roswell,Gwinnett County,1250
+Parker,CO,Denver-Aurora-Lakewood,Douglas County,1385
+Georgetown,TX,Austin-Round Rock,Williamson County,1203
+Arden-Arcade,CA,Sacramento--Roseville--Arden-Arcade,Sacramento County,999
+Nashua,NH,Manchester-Nashua,Hillsborough County,1369
+Redmond,WA,Seattle-Tacoma-Bellevue,King County,1946
+Bloomington,IL,Bloomington,McLean County,595
+Asheville,NC,Asheville,Buncombe County,1050
+Glen Burnie,MD,Baltimore-Columbia-Towson,Anne Arundel County,1150
+Pflugerville,TX,Austin-Round Rock,Travis County,1131
+Bowie,MD,Washington-Arlington-Alexandria,Prince Georges County,1526
+Walnut Creek,CA,San Francisco-Oakland-Hayward,Contra Costa County,2604
+Whittier,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1350
+Fayetteville,AR,Fayetteville-Springdale-Rogers,Washington County,762.5
+Bloomington,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1139
+Longmont,CO,Boulder,Boulder County,1437.5
+Iowa City,IA,Iowa City,Johnson County,750
+Bismarck,ND,Bismarck,Burleigh County,750
+Alhambra,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,1580
+Trenton,NJ,Trenton,Mercer County,890
+Germantown,MD,Washington-Arlington-Alexandria,Montgomery County,1364.5
+Lynnwood,WA,Seattle-Tacoma-Bellevue,Snohomish County,1354
+Tustin,CA,Los Angeles-Long Beach-Anaheim,Orange County,1912.5
+Ellicott City,MD,Baltimore-Columbia-Towson,Howard County,1235
+Spokane Valley,WA,Spokane-Spokane Valley,Spokane County,870.5
+Danbury,CT,Bridgeport-Stamford-Norwalk,Fairfield County,1519
+Norwalk,CT,Bridgeport-Stamford-Norwalk,Fairfield County,1757.5
+Largo,FL,Tampa-St. Petersburg-Clearwater,Pinellas County,980
+Gresham,OR,Portland-Vancouver-Hillsboro,Multnomah County,1144
+Sanford,FL,Orlando-Kissimmee-Sanford,Seminole County,1162
+Quincy,MA,Boston-Cambridge-Newton,Norfolk County,1852.5
+Ogden,UT,Ogden-Clearfield,Weber County,700
+Johns Creek,GA,Atlanta-Sandy Springs-Roswell,Fulton County,1220
+Kirkland,WA,Seattle-Tacoma-Bellevue,King County,1742
+Farmington Hills,MI,Detroit-Warren-Dearborn,Oakland County,936
+Town 'n' Country,FL,Tampa-St. Petersburg-Clearwater,Hillsborough County,1097
+Tomball,TX,Houston-The Woodlands-Sugar Land,Harris County,989
+Arlington Heights,IL,Chicago-Naperville-Elgin,Cook County,1150
+Mount Pleasant,SC,Charleston-North Charleston,Charleston County,1408
+Parma,OH,Cleveland-Elyria,Cuyahoga County,762
+Upland,CA,Riverside-San Bernardino-Ontario,San Bernardino County,1425
+Hoover,AL,Birmingham-Hoover,Jefferson County,800
+Schaumburg,IL,Chicago-Naperville-Elgin,Cook County,1285
+Lancaster,PA,Lancaster,Lancaster County,795
+Lawrence,MA,Boston-Cambridge-Newton,Essex County,1407.5
+Apex,NC,Raleigh,Wake County,1034
+Somerville,MA,Boston-Cambridge-Newton,Middlesex County,2055
+Richmond,TX,Houston-The Woodlands-Sugar Land,Fort Bend County,999
+Norcross,GA,Atlanta-Sandy Springs-Roswell,Gwinnett County,942
+Smyrna,GA,Atlanta-Sandy Springs-Roswell,Cobb County,1154.5
+O Fallon,MO,St. Louis,Saint Charles County,1049
+San Ramon,CA,San Francisco-Oakland-Hayward,Contra Costa County,1985
+Deerfield Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1200
+Newport Beach,CA,Los Angeles-Long Beach-Anaheim,Orange County,2305
+Noblesville,IN,Indianapolis-Carmel-Anderson,Hamilton County,834.5
+Evanston,IL,Chicago-Naperville-Elgin,Cook County,1270
+Schenectady,NY,Albany-Schenectady-Troy,Schenectady County,980
+Avondale,AZ,Phoenix-Mesa-Scottsdale,Maricopa County,995
+Huntington,WV,Huntington-Ashland,Cabell County,550
+Poughkeepsie,NY,New York-Newark-Jersey City,Dutchess County,1000
+Folsom,CA,Sacramento--Roseville--Arden-Arcade,Sacramento County,1515
+Plymouth,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1281
+Bethlehem,PA,Allentown-Bethlehem-Easton,Northampton County,1000
+Redlands,CA,Riverside-San Bernardino-Ontario,San Bernardino County,1424
+Alpharetta,GA,Atlanta-Sandy Springs-Roswell,Fulton County,1365.5
+Saint Charles,MO,St. Louis,Saint Charles County,815
+La Mesa,CA,San Diego-Carlsbad,San Diego County,1660
+Lake Forest,CA,Los Angeles-Long Beach-Anaheim,Orange County,1790
+New Rochelle,NY,New York-Newark-Jersey City,Westchester County,1750
+New Britain,CT,Hartford-West Hartford-East Hartford,Hartford County,815
+Pleasanton,CA,San Francisco-Oakland-Hayward,Alameda County,2284
+North Little Rock,AR,Little Rock-North Little Rock-Conway,Pulaski County,733.5
+Mooresville,NC,Charlotte-Concord-Gastonia,Iredell County,946
+San Marcos,TX,Austin-Round Rock,Hays County,970
+Chino Hills,CA,Riverside-San Bernardino-Ontario,San Bernardino County,1787
+Bossier City,LA,Shreveport-Bossier City,Bossier Parish,900
+Great Falls,MT,Great Falls,Cascade County,650
+Castle Rock,CO,Denver-Aurora-Lakewood,Douglas County,1455
+Gaithersburg,MD,Washington-Arlington-Alexandria,Montgomery County,1560
+Pawtucket,RI,Providence-Warwick,Providence County,875
+San Rafael,CA,San Francisco-Oakland-Hayward,Marin County,2237.5
+Lauderhill,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1000
+Glen Allen,VA,Richmond,Henrico County,1061.5
+Fort Mill,SC,Charlotte-Concord-Gastonia,York County,1032
+Cherry Hill,NJ,Philadelphia-Camden-Wilmington,Camden County,1440
+Redondo Beach,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2197.5
+Framingham,MA,Boston-Cambridge-Newton,Middlesex County,1577
+Bethesda,MD,Washington-Arlington-Alexandria,Montgomery County,2259.5
+Union City,CA,San Francisco-Oakland-Hayward,Alameda County,2290
+Ypsilanti,MI,Ann Arbor,Washtenaw County,896
+Waterloo,IA,Waterloo-Cedar Falls,Black Hawk County,485
+Palm Beach Gardens,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1500
+Centreville,VA,Washington-Arlington-Alexandria,Fairfax County,1518.5
+Alameda,CA,San Francisco-Oakland-Hayward,Alameda County,2200
+Union City,NJ,New York-Newark-Jersey City,Hudson County,1395
+Jupiter,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1650
+Palo Alto,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2995
+Mount Vernon,NY,New York-Newark-Jersey City,Westchester County,1575
+Ames,IA,Ames,Story County,795
+Daytona Beach,FL,Deltona-Daytona Beach-Ormond Beach,Volusia County,800
+Manhattan,KS,Manhattan,Riley County,650
+Woodbury,MN,Minneapolis-St. Paul-Bloomington,Washington County,1380
+Portland,ME,Portland-South Portland,Cumberland County,1350
+Lakewood,WA,Seattle-Tacoma-Bellevue,Pierce County,1120
+Corvallis,OR,Corvallis,Benton County,875
+Bellevue,NE,Omaha-Council Bluffs,Sarpy County,776
+Rockville,MD,Washington-Arlington-Alexandria,Montgomery County,1829
+Eagan,MN,Minneapolis-St. Paul-Bloomington,Dakota County,1230
+Vienna,VA,Washington-Arlington-Alexandria,Fairfax County,1765
+Palatine,IL,Chicago-Naperville-Elgin,Cook County,1150
+Lorain,OH,Cleveland-Elyria,Lorain County,512
+East Orange,NJ,New York-Newark-Jersey City,Essex County,1215
+Hendersonville,TN,Nashville-Davidson--Murfreesboro--Franklin,Sumner County,999
+Fountainbleau,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1400
+Laguna Niguel,CA,Los Angeles-Long Beach-Anaheim,Orange County,2165
+Towson,MD,Baltimore-Columbia-Towson,Baltimore County,1339
+West Hartford,CT,Hartford-West Hartford-East Hartford,Hartford County,1275
+Reston,VA,Washington-Arlington-Alexandria,Fairfax County,2030
+Tamarac,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1150
+North Bergen,NJ,New York-Newark-Jersey City,Hudson County,2222.5
+Waltham,MA,Boston-Cambridge-Newton,Middlesex County,1990
+Eden Prairie,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1263
+Wellington,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1684.5
+North Miami,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1270
+San Clemente,CA,Los Angeles-Long Beach-Anaheim,Orange County,1870
+Broomfield,CO,Denver-Aurora-Lakewood,Broomfield County,1495
+Haverhill,MA,Boston-Cambridge-Newton,Essex County,1550
+Dundalk,MD,Baltimore-Columbia-Towson,Baltimore County,910
+Harlingen,TX,Brownsville-Harlingen,Cameron County,575
+Hamden,CT,New Haven-Milford,New Haven County,1207.5
+Huntersville,NC,Charlotte-Concord-Gastonia,Mecklenburg County,1070.5
+Burnsville,MN,Minneapolis-St. Paul-Bloomington,Dakota County,1127
+West Chester,OH,Cincinnati,Butler County,1057.5
+Cedar Park,TX,Austin-Round Rock,Williamson County,1123.5
+Malden,MA,Boston-Cambridge-Newton,Middlesex County,1700
+Taylorsville,UT,Salt Lake City,Salt Lake County,874
+Greenwich,CT,Bridgeport-Stamford-Norwalk,Fairfield County,1875
+Missoula,MT,Missoula,Missoula County,765
+Gloucester,NJ,Philadelphia-Camden-Wilmington,Camden County,1022
+Annandale,VA,Washington-Arlington-Alexandria,Fairfax County,1449
+Cupertino,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2636.5
+Brookline,MA,Boston-Cambridge-Newton,Norfolk County,2200
+Edmonds,WA,Seattle-Tacoma-Bellevue,Snohomish County,1335
+Royal Oak,MI,Detroit-Warren-Dearborn,Oakland County,999
+Saint Peters,MO,St. Louis,Saint Charles County,950
+Petersburg,VA,Richmond,Petersburg City,919
+West Des Moines,IA,Des Moines-West Des Moines,Polk County,990
+Wheaton,IL,Chicago-Naperville-Elgin,DuPage County,1250
+Olympia,WA,Olympia-Tumwater,Thurston County,1161
+Manchester,CT,Hartford-West Hartford-East Hartford,Hartford County,1095
+Medford,MA,Boston-Cambridge-Newton,Middlesex County,1910
+White Plains,NY,New York-Newark-Jersey City,Westchester County,2300
+Grand Forks,ND,Grand Forks,Grand Forks County,600
+Bayonne,NJ,New York-Newark-Jersey City,Hudson County,1349
+Goose Creek,SC,Charleston-North Charleston,Berkeley County,1035
+Piscataway,NJ,New York-Newark-Jersey City,Middlesex County,1422
+Fountain Valley,CA,Los Angeles-Long Beach-Anaheim,Orange County,1790
+Coconut Creek,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1435
+Altamonte Springs,FL,Orlando-Kissimmee-Sanford,Seminole County,1044.5
+Berwyn,IL,Chicago-Naperville-Elgin,Cook County,850
+New Brunswick,NJ,New York-Newark-Jersey City,Middlesex County,1900.5
+Mount Prospect,IL,Chicago-Naperville-Elgin,Cook County,1091
+Bensalem,PA,Philadelphia-Camden-Wilmington,Bucks County,1135
+Margate,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1200
+Wayne,NJ,New York-Newark-Jersey City,Passaic County,1895
+Weymouth,MA,Boston-Cambridge-Newton,Norfolk County,1861
+McLean,VA,Washington-Arlington-Alexandria,Fairfax County,2099.5
+Euless,TX,Dallas-Fort Worth-Arlington,Tarrant County,1245
+Charleston,WV,Charleston,Kanawha County,600
+Palm Desert,CA,Riverside-San Bernardino-Ontario,Riverside County,1375
+The Hammocks,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1315
+Longwood,FL,Orlando-Kissimmee-Sanford,Seminole County,1230
+Owings Mills,MD,Baltimore-Columbia-Towson,Baltimore County,1266
+Lenexa,KS,Kansas City,Johnson County,815.5
+Hoboken,NJ,New York-Newark-Jersey City,Hudson County,2400
+Shoreline,WA,Seattle-Tacoma-Bellevue,King County,1412.5
+West Haven,CT,New Haven-Milford,New Haven County,1000
+Puyallup,WA,Seattle-Tacoma-Bellevue,Pierce County,1235
+Morgantown,WV,Morgantown,Monongalia County,600
+West New York,NJ,New York-Newark-Jersey City,Hudson County,2085
+Oak Park,IL,Chicago-Naperville-Elgin,Cook County,1240
+Catonsville,MD,Baltimore-Columbia-Towson,Baltimore County,1080
+Peabody,MA,Boston-Cambridge-Newton,Essex County,1799
+Stratford,CT,Bridgeport-Stamford-Norwalk,Fairfield County,1400
+Brookhaven,GA,Atlanta-Sandy Springs-Roswell,Dekalb County,1380
+Doral,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1830
+Tigard,OR,Portland-Vancouver-Hillsboro,Washington County,1243
+North Bethesda,MD,Washington-Arlington-Alexandria,Montgomery County,1785.5
+Urbana,IL,Champaign-Urbana,Champaign County,655
+Grapevine,TX,Dallas-Fort Worth-Arlington,Tarrant County,1425
+Edina,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1555
+Palm Springs,CA,Riverside-San Bernardino-Ontario,Riverside County,1347.5
+Dublin,OH,Columbus,Franklin County,984.5
+Aliso Viejo,CA,Los Angeles-Long Beach-Anaheim,Orange County,1895
+Revere,MA,Boston-Cambridge-Newton,Suffolk County,2130
+Milford,CT,New Haven-Milford,New Haven County,1585
+Cerritos,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2278
+Dublin,CA,San Francisco-Oakland-Hayward,Alameda County,2361.5
+Galveston,TX,Houston-The Woodlands-Sugar Land,Galveston County,850
+Harrisburg,PA,Harrisburg-Carlisle,Dauphin County,745
+Fort Washington,MD,Washington-Arlington-Alexandria,Prince Georges County,1260
+Littleton,CO,Denver-Aurora-Lakewood,Arapahoe County,1324
+Rowlett,TX,Dallas-Fort Worth-Arlington,Dallas County,1159.5
+Middletown,CT,Hartford-West Hartford-East Hartford,Middlesex County,1065
+Saint Louis Park,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1295
+Wauwatosa,WI,Milwaukee-Waukesha-West Allis,Milwaukee County,1342.5
+Bloomfield,NJ,New York-Newark-Jersey City,Essex County,1437.5
+Minnetonka,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1445
+Burien,WA,Seattle-Tacoma-Bellevue,King County,1461
+Dunwoody,GA,Atlanta-Sandy Springs-Roswell,Dekalb County,1294
+Campbell,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2400
+Lakewood,OH,Cleveland-Elyria,Cuyahoga County,699
+East Brunswick,NJ,New York-Newark-Jersey City,Middlesex County,1972.5
+Issaquah,WA,Seattle-Tacoma-Bellevue,King County,1785
+Cleveland Heights,OH,Cleveland-Elyria,Cuyahoga County,625
+Arlington,MA,Boston-Cambridge-Newton,Middlesex County,1695
+Country Club,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1300
+Hackensack,NJ,New York-Newark-Jersey City,Bergen County,1625
+York,PA,York-Hanover,York County,650
+Winter Springs,FL,Orlando-Kissimmee-Sanford,Seminole County,1214
+Oakland Park,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1175
+Windsor Mill,MD,Baltimore-Columbia-Towson,Baltimore County,960
+Covington,KY,Cincinnati,Kenton County,700
+Rancho Santa Margarita,CA,Los Angeles-Long Beach-Anaheim,Orange County,1860
+Carol Stream,IL,Chicago-Naperville-Elgin,DuPage County,994.5
+Lake Mary,FL,Orlando-Kissimmee-Sanford,Seminole County,1173
+Belleville,IL,St. Louis,Saint Clair County,550
+Coppell,TX,Dallas-Fort Worth-Arlington,Dallas County,1103
+Menlo Park,CA,San Francisco-Oakland-Hayward,San Mateo County,2700
+Burlington,VT,Burlington-South Burlington,Chittenden County,1200
+San Bruno,CA,San Francisco-Oakland-Hayward,San Mateo County,2530
+The Colony,TX,Dallas-Fort Worth-Arlington,Denton County,1030
+Salem,MA,Boston-Cambridge-Newton,Essex County,1685
+Norwich,CT,Norwich-New London,New London County,900
+Casselberry,FL,Orlando-Kissimmee-Sanford,Seminole County,1200
+Marlborough,MA,Boston-Cambridge-Newton,Middlesex County,1616
+Montclair,NJ,New York-Newark-Jersey City,Essex County,1612.5
+Hilliard,OH,Columbus,Franklin County,1010
+Great Neck,NY,New York-Newark-Jersey City,Nassau County,2625
+Hallandale,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1450
+Culver City,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2208
+Saratoga Springs,NY,Albany-Schenectady-Troy,Saratoga County,1290.5
+Chelsea,MA,Boston-Cambridge-Newton,Suffolk County,1833
+Boerne,TX,San Antonio-New Braunfels,Kendall County,917
+Hurst,TX,Dallas-Fort Worth-Arlington,Tarrant County,803
+Aventura,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1700
+Englewood,CO,Denver-Aurora-Lakewood,Arapahoe County,1386
+Northglenn,CO,Denver-Aurora-Lakewood,Adams County,1260
+Franconia,VA,Washington-Arlington-Alexandria,Fairfax County,1712.5
+Braintree,MA,Boston-Cambridge-Newton,Norfolk County,2030
+District Heights,MD,Washington-Arlington-Alexandria,Prince Georges County,1103
+Bentonville,AR,Fayetteville-Springdale-Rogers,Benton County,722
+Beverly,MA,Boston-Cambridge-Newton,Essex County,1765
+Cedar Falls,IA,Waterloo-Cedar Falls,Black Hawk County,725
+Lake Worth,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1000
+West Hollywood,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2500
+Roseville,MN,Minneapolis-St. Paul-Bloomington,Ramsey County,1007.5
+University,FL,Tampa-St. Petersburg-Clearwater,Hillsborough County,820
+Andover,MA,Boston-Cambridge-Newton,Essex County,1925
+Reisterstown,MD,Baltimore-Columbia-Towson,Baltimore County,1000
+Los Gatos,CA,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2595
+Hagerstown,MD,Hagerstown-Martinsburg,Washington County,650
+Beverly Hills,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2550
+Pleasant Hill,CA,San Francisco-Oakland-Hayward,Contra Costa County,2000
+Gurnee,IL,Chicago-Naperville-Elgin,Lake County,1304
+Randolph,MA,Boston-Cambridge-Newton,Norfolk County,1773
+Leander,TX,Austin-Round Rock,Williamson County,1090.5
+Paine Field-Lake Stickney,WA,Seattle-Tacoma-Bellevue,Snohomish County,1252.5
+Watertown,MA,Boston-Cambridge-Newton,Middlesex County,2300
+Foster City,CA,San Francisco-Oakland-Hayward,San Mateo County,2938
+Cottonwood Heights,UT,Salt Lake City,Salt Lake County,1058
+Carbondale,IL,Carbondale-Marion,Jackson County,550
+Riviera Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,1060
+Farmers Branch,TX,Dallas-Fort Worth-Arlington,Dallas County,1478
+Dover,DE,Dover,Kent County,908.5
+Saint Charles,IL,Chicago-Naperville-Elgin,Kane County,1295
+Elkridge,MD,Baltimore-Columbia-Towson,Howard County,1660
+Winter Park,FL,Orlando-Kissimmee-Sanford,Orange County,1185
+Odenton,MD,Baltimore-Columbia-Towson,Anne Arundel County,1610
+Neptune,NJ,New York-Newark-Jersey City,Monmouth County,1600
+Rolla,MO,Rolla,Phelps County,425
+Midvale,UT,Salt Lake City,Salt Lake County,999
+Burlingame,CA,San Francisco-Oakland-Hayward,San Mateo County,2714
+Ross,PA,Pittsburgh,Allegheny County,859
+Parkville,MD,Baltimore-Columbia-Towson,Baltimore County,1015
+Coram,NY,New York-Newark-Jersey City,Suffolk County,1752.5
+Monterey,CA,Salinas,Monterey County,1675
+North Royalton,OH,Cleveland-Elyria,Cuyahoga County,865
+Orange,NJ,New York-Newark-Jersey City,Essex County,1197.5
+Needham,MA,Boston-Cambridge-Newton,Norfolk County,2719
+Dania Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1150
+College Park,MD,Washington-Arlington-Alexandria,Prince Georges County,1790
+Port Chester,NY,New York-Newark-Jersey City,Westchester County,2059
+Norwood,MA,Boston-Cambridge-Newton,Norfolk County,1786
+Laguna Hills,CA,Los Angeles-Long Beach-Anaheim,Orange County,1810
+Long Branch,NJ,New York-Newark-Jersey City,Monmouth County,1335
+Beltsville,MD,Washington-Arlington-Alexandria,Prince Georges County,1410
+Long Beach,NY,New York-Newark-Jersey City,Nassau County,1900
+Stoughton,MA,Boston-Cambridge-Newton,Norfolk County,1701
+Englewood,NJ,New York-Newark-Jersey City,Bergen County,2240
+Williston,ND,Williston,Williams County,937.5
+King of Prussia,PA,Philadelphia-Camden-Wilmington,Montgomery County,1820
+Lisle,IL,Chicago-Naperville-Elgin,DuPage County,1270
+Melrose,MA,Boston-Cambridge-Newton,Middlesex County,2200
+Lower Merion,PA,Philadelphia-Camden-Wilmington,Montgomery County,1760
+Dana Point,CA,Los Angeles-Long Beach-Anaheim,Orange County,2150
+New London,CT,Norwich-New London,New London County,915
+Temple Hills,MD,Washington-Arlington-Alexandria,Prince Georges County,1115
+Morrisville,NC,Raleigh,Wake County,1094
+Burlington,MA,Boston-Cambridge-Newton,Middlesex County,1895
+Groveton,VA,Washington-Arlington-Alexandria,Fairfax County,1672.5
+Temple Terrace,FL,Tampa-St. Petersburg-Clearwater,Hillsborough County,1172
+Mercer Island,WA,Seattle-Tacoma-Bellevue,King County,1731
+Vinings,GA,Atlanta-Sandy Springs-Roswell,Cobb County,1300
+Zionsville,IN,Indianapolis-Carmel-Anderson,Boone County,995
+Eastchester,NY,New York-Newark-Jersey City,Westchester County,2392.5
+Lower Paxton,PA,Harrisburg-Carlisle,Dauphin County,896.5
+Silverdale,WA,Bremerton-Silverdale,Kitsap County,1400
+Westmont,IL,Chicago-Naperville-Elgin,DuPage County,1107
+Lexington Park,MD,California-Lexington Park,Saint Marys County,1132.5
+Plainsboro,NJ,New York-Newark-Jersey City,Middlesex County,1350
+Westchase,FL,Tampa-St. Petersburg-Clearwater,Hillsborough County,1241
+Citrus Ridge,FL,Orlando-Kissimmee-Sanford,Osceola County,1210
+Blythewood,SC,Columbia,Richland County,924
+Wilsonville,OR,Portland-Vancouver-Hillsboro,Clackamas County,1211.5
+Bixby,OK,Tulsa,Tulsa County,1085
+Lyndhurst,NJ,New York-Newark-Jersey City,Bergen County,2187.5
+Ives Estates,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1400
+Golden Valley,MN,Minneapolis-St. Paul-Bloomington,Hennepin County,1660
+Decatur,GA,Atlanta-Sandy Springs-Roswell,Dekalb County,1490
+Hatfield,PA,Philadelphia-Camden-Wilmington,Montgomery County,1200
+Mill Creek,WA,Seattle-Tacoma-Bellevue,Snohomish County,1695
+Birmingham,MI,Detroit-Warren-Dearborn,Oakland County,1250
+Chevy Chase,MD,Washington-Arlington-Alexandria,Montgomery County,1999
+Hyattsville,MD,Washington-Arlington-Alexandria,Prince Georges County,1741.5
+Laguna Beach,CA,Los Angeles-Long Beach-Anaheim,Orange County,2400
+Coralville,IA,Iowa City,Johnson County,925
+Jacksonville Beach,FL,Jacksonville,Duval County,1379
+Sunny Isles Beach,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1790
+Maple Shade,NJ,Philadelphia-Camden-Wilmington,Burlington County,1065
+Secaucus,NJ,New York-Newark-Jersey City,Hudson County,2285
+Morristown,NJ,New York-Newark-Jersey City,Morris County,2520
+Hermosa Beach,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2500
+Mamaroneck,NY,New York-Newark-Jersey City,Westchester County,1850
+North Druid Hills,GA,Atlanta-Sandy Springs-Roswell,Dekalb County,1240
+Ojus,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1250
+Exton,PA,Philadelphia-Camden-Wilmington,Chester County,1480
+Creve Coeur,MO,St. Louis,Saint Louis County,961
+Glenvar Heights,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2027
+Stafford,TX,Houston-The Woodlands-Sugar Land,Fort Bend County,1030
+Hanover,MD,Baltimore-Columbia-Towson,Anne Arundel County,1643.5
+Cohoes,NY,Albany-Schenectady-Troy,Albany County,1350
+Phoenixville,PA,Philadelphia-Camden-Wilmington,Chester County,1475
+Prosper,TX,Dallas-Fort Worth-Arlington,Collin County,1054
+Maitland,FL,Orlando-Kissimmee-Sanford,Orange County,1451
+Harrison,NJ,New York-Newark-Jersey City,Hudson County,2305
+Greenwood Village,CO,Denver-Aurora-Lakewood,Arapahoe County,1495
+Destin,FL,Crestview-Fort Walton Beach-Destin,Okaloosa County,1435
+La Grange,IL,Chicago-Naperville-Elgin,Cook County,1810
+Addison,TX,Dallas-Fort Worth-Arlington,Dallas County,1263.5
+Forest Park,IL,Chicago-Naperville-Elgin,Cook County,1050
+Weehawken,NJ,New York-Newark-Jersey City,Hudson County,2550
+Wynnewood,PA,Philadelphia-Camden-Wilmington,Montgomery County,1601
+Druid Hills,GA,Atlanta-Sandy Springs-Roswell,Dekalb County,1397.5
+Malvern,PA,Philadelphia-Camden-Wilmington,Chester County,1550
+Lone Tree,CO,Denver-Aurora-Lakewood,Douglas County,1419
+Key Biscayne,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2375
+Superior,CO,Boulder,Boulder County,1557
+Willowbrook,IL,Chicago-Naperville-Elgin,DuPage County,1280
+Wilton Manors,FL,Miami-Fort Lauderdale-West Palm Beach,Broward County,1299
+Guttenberg,NJ,New York-Newark-Jersey City,Hudson County,1900
+Edgewater,NJ,New York-Newark-Jersey City,Bergen County,2502
+Conshohocken,PA,Philadelphia-Camden-Wilmington,Montgomery County,1523
+Saint Robert,MO,Fort Leonard Wood,Pulaski County,560
+Largo,MD,Washington-Arlington-Alexandria,Prince Georges County,1420
+Emeryville,CA,San Francisco-Oakland-Hayward,Alameda County,2657
+Huntington,VA,Washington-Arlington-Alexandria,Fairfax County,1665
+Marina del Rey,CA,Los Angeles-Long Beach-Anaheim,Los Angeles County,2925
+Chamblee,GA,Atlanta-Sandy Springs-Roswell,Dekalb County,1349
+North Bay Village,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1775
+Century Village,FL,Miami-Fort Lauderdale-West Palm Beach,Palm Beach County,875
+Surfside,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1850
+Bay Harbor Islands,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,1550
+Bal Harbour,FL,Miami-Fort Lauderdale-West Palm Beach,Miami-Dade County,2650
